@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Anime3rb (WebView)",
+    "lang": "ar",
+    "baseUrl": "https://anime3rb.com",
+    "version": 1,
+    "pkg": "webview.anime3rb",
+    "className": "WebViewE",
+    "nsfw": false
+  }
+]
